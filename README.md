@@ -12,11 +12,11 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
   [📹 Lihat Video Prototipe Interaktif (prototipe.mp4)](prototipe.mp4)
 
 ### Aset Tampilan Layar (UI Screens)
-  1. Halaman Utama
+  1. Halaman Utama<br> 
      [🖼️ Lihat Window.png](Window.png) 
-  2. Halaman Keranjang
+  2. Halaman Keranjang<br>
      [🖼️ Lihat Window (2).png](Window%20%282%29.png)
-  3. Pop-up Sukses Pembelian
+  3. Pop-up Sukses Pembelian<br>
      [🖼️ Lihat Modal.png](Modal.png)
 
 ### Kontak
