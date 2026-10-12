@@ -4,7 +4,7 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
 
 ### Tujuan Desain (Design Goals)
   1. Informasi Performa & Spesifikasi: Menyajikan detail tenaga mesin (*565 hp*), akselerasi, dan kecepatan maksimum secara elegan.
-  2. istem Keranjang & Checkout: Memfasilitasi pengguna untuk melihat rincian produk, harga, dan konfirmasi pembelian melalui jendela pop-up interaktif.
+  2. Sistem Keranjang & Checkout: Memfasilitasi pengguna untuk melihat rincian produk, harga, dan konfirmasi pembelian melalui jendela pop-up interaktif.
   3. Tampilan Visual Imersif: Menggunakan skema warna gelap (*dark mode*) khas otomotif sport mewah dengan navigasi yang bersih dan responsif.
 
 ### Dokumentasi Desain & Prototipe (Figma)
